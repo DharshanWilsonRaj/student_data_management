@@ -1,3 +1,9 @@
+
+![StudentProjectlogin](https://github.com/DharshanWilsonRaj/student_data_management/assets/149076786/4ef2837d-a903-422b-a3f8-cd72aa581695)
+![studentdataTabel](https://github.com/DharshanWilsonRaj/student_data_management/assets/149076786/4d5c345f-e37a-44fc-a001-831b9a7ca144)
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
